@@ -108,7 +108,7 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 <div align="center">
   
-  <a href="https://github.com/mianabdullah56204" align="center">
+  <a href="https://github.com/mianabdullah56204">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mianabdullah56204 &theme=transparent" />
   </a>
   <a href="https://github.com/mianabdullah56204">
@@ -121,8 +121,4 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 </div>
 
 ---
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" />
 </div>
