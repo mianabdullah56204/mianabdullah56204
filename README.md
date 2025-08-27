@@ -17,7 +17,7 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="mianabdullah56204" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mianabdullah56204&label=Profile%20views&color=0e75b6&style=flat" alt="mianabdullah56204" /> </p>
 
 - 🔭 I’m currently working on **Flutter Development**
 
