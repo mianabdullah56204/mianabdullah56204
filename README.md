@@ -101,16 +101,22 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
 
+### 📊 Top Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMustafa4556&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 <h3 align="left">GitHub Activity</h3>
 
 <div align="center">
-  <a href="https://github.com/mianabdullah56204">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mianabdullah56204 &theme=transparent" />
-  </a>
+  
   <a href="https://github.com/mianabdullah56204">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mianabdullah56204 &theme=transparent" />
+  </a>
+  <a href="https://github.com/mianabdullah56204">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mianabdullah56204 &theme=transparent" />
   </a>
 </div>
 
