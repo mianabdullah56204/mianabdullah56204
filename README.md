@@ -17,16 +17,23 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="NoorMustafa4556" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="mianabdullah56204" /> </p>
 
-- 🔭 I’m currently working on **[Flutter Projects](https://github.com/NoorMustafa4556)**
-- 🌱 I’m currently learning **Flutter APIs**
-- 👯 I’m looking to collaborate on **interesting projects**
-- 👨‍💻 My complete portfolio is available at [https://github.com/noormustafa4556](https://github.com/noormustafa4556)
-- 💬 Ask me about **Flutter, Dart, and Web Development**
-- 📫 Reach me at **noorrmustafa4556@gmail.com**
-- ⚡ Fun fact: **I think I'm funny**
+- 🔭 I’m currently working on **Flutter Development**
 
+- 🌱 I’m currently learning **State Management**
+
+- 🤝 Open to collaboration on innovative and challenging projects
+
+- 👨‍💻 All of my projects are available at [https://github.com/mianabdullah56204](https://github.com/mianabdullah56204)
+
+- 📫 How to reach me **mianabdullah56204@gmail.com**
+
+💬 Ask me about Flutter, APIs, and Mobile Development
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XZFM58_8OXkLe2i11siF4WIYm_0xBTM2/view?usp=sharing](https://drive.google.com/file/d/1XZFM58_8OXkLe2i11siF4WIYm_0xBTM2/view?usp=sharing)
+
+- ⚡ Fun fact **Turning ideas into apps is my superpower!**
 
 ---
 
