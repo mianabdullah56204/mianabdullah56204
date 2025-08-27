@@ -99,9 +99,7 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 ### 📊 Top Languages Used
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
 
 ---
 
@@ -110,14 +108,13 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mianabdullah56204&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Muhammad Abdullah GitHub Activity" />
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/mianabdullah56204">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mianabdullah56204 &theme=transparent" />
   </a>
   <a href="https://github.com/mianabdullah56204">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mianabdullah56204 &theme=transparent" />
   </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
 </div>
 
 ---
