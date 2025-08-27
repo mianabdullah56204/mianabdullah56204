@@ -25,11 +25,11 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 - 🤝 Open to collaboration on innovative and challenging projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/mianabdullah56204](https://github.com/mianabdullah56204)
-
+- 💬 Ask me about Flutter, APIs, and Mobile Development
+  
 - 📫 How to reach me **mianabdullah56204@gmail.com**
 
-💬 Ask me about Flutter, APIs, and Mobile Development
+- 👨‍💻 All of my projects are available at [https://github.com/mianabdullah56204](https://github.com/mianabdullah56204)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XZFM58_8OXkLe2i11siF4WIYm_0xBTM2/view?usp=sharing](https://drive.google.com/file/d/1XZFM58_8OXkLe2i11siF4WIYm_0xBTM2/view?usp=sharing)
 
