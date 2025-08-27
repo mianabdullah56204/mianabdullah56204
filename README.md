@@ -19,6 +19,8 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianabdullah56204&label=Profile%20views&color=0e75b6&style=flat" alt="mianabdullah56204" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mianabdullah56204" alt="mianabdullah56204" /></a> </p>
+
 - 🔭 I’m currently working on **Flutter Development**
 
 - 🌱 I’m currently learning **State Management**
