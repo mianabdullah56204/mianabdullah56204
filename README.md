@@ -9,7 +9,7 @@
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
 </div>
 
-<img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coder GIF" width="350" height="280">
 
 ### 👨‍🎓 About Me  
 **I'm Muhammad Abdullah, a Flutter and Mobile App Developer from Pakistan.**  
