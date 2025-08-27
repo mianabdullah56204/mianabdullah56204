@@ -110,7 +110,7 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mianabdullah56204&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Muhammad Abdullah GitHub Activity" />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mianabdullah56204">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mianabdullah56204 &theme=transparent" />
   </a>
