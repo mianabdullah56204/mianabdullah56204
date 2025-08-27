@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="left">I'm Muhammad Abdullah, a Flutter and Mobile App Developer from Pakistan. I specialize in building Flutter apps, APIs, and mobile-first solutions, with a strong focus on performance and user experience. My journey in mobile development is driven by curiosity and a passion for solving real-world problems through clean and scalable code.</h3>
+<h3 align="center">I'm Muhammad Abdullah, a Flutter and Mobile App Developer from Pakistan. I specialize in building Flutter apps, APIs, and mobile-first solutions, with a strong focus on performance and user experience. My journey in mobile development is driven by curiosity and a passion for solving real-world problems through clean and scalable code.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
