@@ -117,6 +117,7 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
   <a href="https://github.com/mianabdullah56204">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mianabdullah56204 &theme=transparent" />
   </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
 </div>
 
 ---
