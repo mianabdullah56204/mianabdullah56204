@@ -1,7 +1,7 @@
 [![logo](https://github.com/mianabdullah56204/mianabdullah56204/blob/main/Github%20Banner.gif)](https://github.com/mianabdullah56204)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Muhammad+Abdullah+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Hi+there!+👋+I'm+Muhammad+Abdullah+" />
 </h1>
 
 
