@@ -99,7 +99,8 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 ### 📊 Top Languages Used
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mianabdullah56204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mianabdullah56204" /></p>
 
 ### 📊 Top Languages Used
 <p align="center">
