@@ -58,16 +58,11 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 </p>
 
-
-
-
 ---
-
-
 
 ### 🛠️ Languages and Tools
 <p align="center"> 
-  <table> 
+  <table>
     <tr> 
       <td align="center" width="100"> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart 
@@ -87,13 +82,10 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
     </tr> 
     <tr> 
       <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java 
       </td> 
       <td align="center" width="100"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/><br>Django 
-      </td> 
-      <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br>Android 
       </td> 
       <td align="center" width="100"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML 
@@ -101,24 +93,6 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
       <td align="center" width="100"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS 
       </td> 
-    </tr> 
-    <tr> 
-      <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL 
-      </td> 
-      <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java 
-      </td> 
-      <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C 
-      </td> 
-      <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++ 
-      </td> 
-      <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br>Android 
-      </td> 
-    </tr> 
   </table> 
 </p>
 
