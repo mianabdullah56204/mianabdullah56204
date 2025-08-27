@@ -11,15 +11,13 @@
 
 <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coder GIF" width="350" height="280">
 
-### 👨‍🎓 About Me  
+### 👨‍🎓 About Me
 **I'm Muhammad Abdullah, a Flutter and Mobile App Developer from Pakistan.**  
 I specialize in building Flutter apps, APIs, and mobile-first solutions, with a strong focus on performance and user experience. My journey in mobile development is driven by curiosity and a passion for solving real-world problems through clean and scalable code.
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianabdullah56204&label=Profile%20views&color=0e75b6&style=flat" alt="mianabdullah56204" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mianabdullah56204" alt="mianabdullah56204" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Development**
 
@@ -39,32 +37,24 @@ I specialize in building Flutter apps, APIs, and mobile-first solutions, with a 
 
 ---
 
-
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/NoorMustafa4556" target="blank">
+  <a href="https://x.com/mianabdullah560" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NoorMustafa4556" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/noormustafa4556/" target="blank">
+  <a href="https://www.linkedin.com/in/mianabdullah56204" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noormustafa4556" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/NoorMustafa4556" target="blank">
+  <a href="https://www.facebook.com/share/15yWhb6JXy/?mibextid=wwXIfr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NoorMustafa4556" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/noormustafa4556" target="blank">
+  <a href="https://instagram.com/mian_abdullah560" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noormustafa4556" height="30" width="40" />
   </a>
-  <a href="https://wa.me/923087655076" target="blank">
+  <a href="https://wa.me/923001056160" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
-  <a href="https://www.tiktok.com/@noormustafa4556" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" height="30" width="30" />
-  </a>
 </p>
-
-
-
 
 </p>
 
