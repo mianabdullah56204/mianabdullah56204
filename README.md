@@ -1,3 +1,4 @@
+![logo](https://github.com/mianabdullah56204/mianabdullah56204/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">I'm Muhammad Abdullah, a Flutter and Mobile App Developer from Pakistan. I specialize in building Flutter apps, APIs, and mobile-first solutions, with a strong focus on performance and user experience. My journey in mobile development is driven by curiosity and a passion for solving real-world problems through clean and scalable code.</h3>
 
